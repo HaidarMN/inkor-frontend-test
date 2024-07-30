@@ -1,4 +1,4 @@
-# Samir Frontend Test
+# Cyber Edu Inkor Frontend Test
 
 ## Getting Started
 
